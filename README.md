@@ -5,19 +5,19 @@ This repository contains Python code implementing three machine learning ensembl
 ## Decision Tree Classifier
 
 - Implementation of a Decision Tree Classifier with options for specifying the maximum depth and splitting criterion (Gini impurity).
-- Accuracy achieved on the Titanic dataset: XX.XX%
+- Accuracy achieved on the Titanic dataset: 86.49%
 
 ## Random Forest Classifier
 
 - Implementation of a Random Forest Classifier using Decision Trees as base classifiers.
 - Features include controlling the maximum depth, splitting criterion, and the number of trees in the forest.
-- Accuracy achieved on the Titanic dataset: XX.XX%
+- Accuracy achieved on the Titanic dataset: 89.49%
 
 ## AdaBoost Classifier
 
 - Implementation of an AdaBoost Classifier with Decision Trees as weak learners.
 - The number of learners, learning rate, maximum depth, and splitting criterion are configurable.
-- Accuracy achieved on the Titanic dataset: XX.XX%
+- Accuracy achieved on the Titanic dataset: 75.68%
 
 ### Dataset Preparation
 
